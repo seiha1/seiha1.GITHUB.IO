@@ -1,2 +1,2 @@
-# seiha1.GITHUB.IO
+# seiha1.github.IO
 Self-Learning Programming Projects
